@@ -1,0 +1,17 @@
+{
+	"dependencies": {
+		"@types/inquirer": "^9.0.7",
+		"chalk": "^5.3.0",
+		"inquirer": "^9.2.20"
+	},
+	"name": "assignment3",
+	"version": "1.0.0",
+	"main": "addition.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Bushra",
+	"license": "MIT",
+	"description": ""
+}
